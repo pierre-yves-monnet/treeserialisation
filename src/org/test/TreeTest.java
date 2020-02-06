@@ -3,6 +3,8 @@ package org.test;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+import org.tree.TreeManagement;
+import org.tree.TreeNode;
 
 
 class TreeTest {
